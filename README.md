@@ -1,2 +1,4 @@
 # Spotify-Song-Popularity-Prediction
 CIS 5450 Final Project
+
+The goal of this final project was to train a model to predict song popularity on Spotify using acoustic features. This problem stood out to us because we were interested in determining whether there are certain features that make a song popular, which might also be of interest to many people such as songwriters, producers, and stakeholders in music production companies. We selected a dataset `songs_df` that contains a variety of attributes, including energy, loudness, duration, and danceability, for over 200,000 songs on Spotify. Making use of various topics covered in the course, including feature selection, feature engineering, ensemble models, and hyperparameter tuning, we deepened our knowledge of the course content while exploring a real-world application of big data analysis.
